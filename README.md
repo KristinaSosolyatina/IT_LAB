@@ -25,6 +25,7 @@
 Предоставление ранее выполненных работ по теме "Настройка локальной сети передачи данных". 
 
 Загрузка в Git-репозиторий отчетов о проделанной работе в Cisco Packet Tracer.
+[Отчёт](https://docs.google.com/document/d/1xKdfvTobSV53SNENDWYXr2qXmrsOoL31/edit?usp=sharing&ouid=113505564427545614828&rtpof=true&sd=true)
 
 ## ✅ Экзаменационные билет №1
 
